@@ -24,7 +24,7 @@ currently at [CoinDCX](https://coindcx.com) (Okto wallet, chain scanner, NFT inf
 
 ### recognition
 
-- **Chainlink + Superfluid bounties**, 4 bounties for Stroller Protocol at Road to Web3, contracts passed audit with zero criticals
+- **Chainlink + Superfluid bounties**, 4 bounties for [Stroller Protocol](https://github.com/DAM-Protocol/Stroller-Protocol) at Road to Web3, contracts passed audit with zero criticals
 - **Best Chess dApp** (judged by Samay Raina) + **StackOS Best dApp** for Shatranj, a staked chess game on Polygon
 - Recognized by **Polygon** and the **Celo Foundation** across multiple web3 hackathons
 - B.Tech CSE, **IIIT Pune**
