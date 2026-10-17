@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hey,+i'm+harsh+%F0%9F%91%8B;web3+%2B+backend+engineer;smart+contracts+that+ship;hackathon+winner&font=Fira+Code&center=false&width=500&height=45&color=58A6FF&vCenter=true&pause=1000)](https://harsh.gg)
 
-![Profile Views](https://hits.sh/github.com/harsh132.svg?style=flat-squarehttps://komarev.com/ghpvc/?username=harsh132&color=blueviolet&style=flat-squarelabel=profile%20viewshttps://komarev.com/ghpvc/?username=harsh132&color=blueviolet&style=flat-squarecolor=8a2be2)
+![Profile Views](https://hits.sh/github.com/harsh132.svg?style=flat-square&label=profile%20views&color=8a2be2)
 
 📍 **Bangalore, India** | **Web3 and backend engineer building money tools that just work**
 
