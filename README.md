@@ -1,7 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=hey,+i'm+harsh+%F0%9F%91%8B;web3+%2B+backend+engineer;smart+contracts+that+ship;hackathon+winner&font=Fira+Code&center=false&width=500&height=45&color=58A6FF&vCenter=true&pause=1000)](https://harsh.gg)
 
-![Profile Views](https://hits.sh/github.com/harsh132.svg?style=flat-square&label=profile%20views&color=8a2be2)
-
 📍 **Bangalore, India** | **Web3 and backend engineer building money tools that just work**
 
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
@@ -23,6 +21,8 @@
 currently at [CoinDCX](https://coindcx.com) (Okto wallet, chain scanner, NFT infra) · prev Dyeus (web3 gaming)
 
 ### recognition
+
+[![Harsh Prakash's hackathon record on Medalist](https://medalist.build/badge/builders/harsh132.svg)](https://medalist.build/builders/harsh132)
 
 - **Chainlink + Superfluid bounties**, 4 bounties for [Stroller Protocol](https://github.com/DAM-Protocol/Stroller-Protocol) at Road to Web3, contracts passed audit with zero criticals
 - **Best Chess dApp** (judged by Samay Raina) + **StackOS Best dApp** for Shatranj, a staked chess game on Polygon
@@ -60,3 +60,5 @@ currently at [CoinDCX](https://coindcx.com) (Okto wallet, chain scanner, NFT inf
 [![Twitter](https://img.shields.io/badge/X-@okay__hp-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/okay_hp)
 [![Website](https://img.shields.io/badge/Web-harsh.gg-000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://harsh.gg)
 [![Email](https://img.shields.io/badge/Email-hello@harsh.gg-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@harsh.gg)
+
+![Profile Views](https://hits.sh/github.com/harsh132.svg?style=flat-square&label=profile%20views&color=8a2be2)
