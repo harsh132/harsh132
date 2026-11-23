@@ -32,7 +32,7 @@ currently at [CoinDCX](https://coindcx.com) (Okto wallet, chain scanner, NFT inf
 ---
 
 ### what i'm building
-- **Medalist** - index of hackathon projects, ETHGlobal first
+- **[Medalist](https://medalist.build)** - index of hackathon projects, ETHGlobal first
 - **[Ender Money](https://github.com/harsh132/ender-money)** - AUSD wallet on Monad that works over the internet or plain SMS
 - **[Crew AI](https://github.com/harsh132/crew-ai)** - attenuating budget delegation for AI agents. Agents delegate to agents; money does not.
 
